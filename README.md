@@ -1,6 +1,6 @@
 <div align="center">
   <!-- ضع رابط الـ GIF هنا -->
-  <img height="220" src="PUT_YOUR_GIF_LINK_HERE" />
+chekmate.gif
 </div>
 
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Abdelwahab</h1>
