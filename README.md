@@ -1,7 +1,9 @@
 <div align="center">
-  <!-- ضع رابط الـ GIF هنا -->
-chekmate.gif
+  <a href="https://github.com/aabdelwahab498/aabdelwahab498/blob/main/chekmate.gif">
+    <img height="220" src="https://raw.githubusercontent.com/aabdelwahab498/aabdelwahab498/main/chekmate.gif" />
+  </a>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Abdelwahab</h1>
 <h3 align="center">Fullstack Developer | AI Agent Developer | Cybersecurity Enthusiast</h3>
