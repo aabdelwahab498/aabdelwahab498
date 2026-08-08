@@ -60,24 +60,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
 
 </div>
-
 ## ⚡ Engineering Activity
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Code%20%26%20Engineering%20Activity&theme=tokyonight" height="175"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" width="48%" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&custom_title=Technology%20Stack&theme=tokyonight" height="175"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="175"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
