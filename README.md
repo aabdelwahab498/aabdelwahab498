@@ -61,23 +61,30 @@
 
 </div>
 
-
-## 📊 GitHub Stats
+## ⚡ Engineering Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" height="170"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Code%20%26%20Engineering%20Activity&theme=tokyonight" height="175"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&custom_title=Technology%20Stack&theme=tokyonight" height="175"/>
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="180"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="175"/>
+</a>
 
 </div>
 
+<p align="center">
+  <i>Building scalable systems, AI-powered products, and production-ready software.</i>
+</p>
 
----
 
 ## 📫 Contact Me
 <div align="center">
