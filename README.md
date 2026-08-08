@@ -66,17 +66,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelwahab&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdelwahab&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 <p align="center">
   <b>Building scalable systems • AI-powered products • Production-ready software</b>
 </p>
+
 
 
 ## 📫 Contact Me
