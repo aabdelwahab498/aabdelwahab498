@@ -41,7 +41,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## ## 💻 Languages & Tools
 
 <div align="center">
 
@@ -59,6 +59,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+
+</div>
 
 </div>
 ## ⚡ Engineering Activity
