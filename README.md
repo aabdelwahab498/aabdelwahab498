@@ -61,23 +61,29 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
 
 </div>
-
 ## ⚡ Engineering Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelwahab&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Code%20%26%20Engineering%20Activity&theme=tokyonight" height="175"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&custom_title=Technology%20Stack&theme=tokyonight" height="175"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdelwahab&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="175"/>
+</a>
 
 </div>
 
 <p align="center">
-  <b>Building scalable systems • AI-powered products • Production-ready software</b>
+  <i>Building scalable systems, AI-powered products, and production-ready software.</i>
 </p>
-
 
 
 ## 📫 Contact Me
