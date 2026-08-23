@@ -67,13 +67,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Code%20%26%20Engineering%20Activity&theme=tokyonight" height="175"/>
-</a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&custom_title=Technology%20Stack&theme=tokyonight" height="175"/>
-</a>
 
 <br/>
 
