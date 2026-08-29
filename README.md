@@ -4,7 +4,6 @@
   </a>
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Abdelwahab</h1>
 <h3 align="center">Fullstack Developer | AI Agent Developer | Cybersecurity Enthusiast</h3>
 
@@ -12,20 +11,17 @@
 
 ## 🌐 Social Media
 <div align="center">
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61582424456394" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="28"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="https://www.snapchat.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge" height="28"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-abdelwahab/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-abdelwahab-5686102aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/>
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/@MADO674" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="28"/>
+  </a>
+  <a href="https://github.com/aabdelwahab498" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" height="28"/>
   </a>
 </div>
 
@@ -33,15 +29,15 @@
 
 ## 👨‍💻 About Me
 - 🎯 Fullstack Developer using **C#, ASP.NET Core, HTML, CSS, Bootstrap, JavaScript**
-- 🧠 AI Agent Developer  
-- 🔐 Cybersecurity Background  
+- 🧠 AI Agent Developer
+- 🔐 Cybersecurity Enthusiast
 - 💼 Experience in **Digital Marketing & Google Ads Media Buying**
 - 🌱 Currently improving: **Advanced ASP.NET Core, System Design, AI Automation**
 - ⚡ Fun fact: I love creating smart systems that solve real problems.
 
 ---
 
-## ## 💻 Languages & Tools
+## 💻 Languages & Tools
 
 <div align="center">
 
@@ -62,17 +58,12 @@
 
 </div>
 
-</div>
 ## ⚡ Engineering Activity
 
 <div align="center">
 
-
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="175"/>
+<a href="https://github.com/aabdelwahab498">
+  <img src="https://streak-stats.demolab.com?user=aabdelwahab498&theme=tokyonight&hide_border=true&border_radius=10" height="175"/>
 </a>
 
 </div>
@@ -81,19 +72,22 @@
   <i>Building scalable systems, AI-powered products, and production-ready software.</i>
 </p>
 
+---
 
 ## 📫 Contact Me
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aabdelwahab498@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-abdelwahab/">
+  <a href="https://www.linkedin.com/in/ahmed-abdelwahab-5686102aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/>
   </a>
-  <a href="https://github.com/ahmedabdelwahab98">
+  <a href="https://github.com/aabdelwahab498">
     <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" height="28"/>
+  </a>
+  <a href="https://www.youtube.com/@MADO674">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="28"/>
   </a>
 </div>
 
 ---
-
